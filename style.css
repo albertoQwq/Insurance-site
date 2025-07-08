@@ -1,13 +1,16 @@
-/* Resetare generală */
-body, html {
+body {
   margin: 0;
   padding: 0;
-  font-family: 'Segoe UI', sans-serif;
-  height: 100%;
-  overflow-x: hidden;
+  font-family: Arial, sans-serif;
+  background-image: url('C34B4C3B-C338-440A-8906-56EFEE769B6F.png');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
 }
 
-/* Fundal galaxie */
+/* galaxy backround */
 .background {
   background-image: url('C34B4C3B-C338-440A-8906-56EFEE769B6F.png');
   background-size: cover;
