@@ -1,15 +1,11 @@
-/* General body style */
 body {
-  margin: 0;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  color: white;
-  background-image: url('3FEBB758-BC0E-4A0A-9DDC-57132F74D2EA.PNG');
+  background-image: url('background.png');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
   background-repeat: no-repeat;
+  color: white;
 }
-
 /* Main heading */
 h1 {
   text-align: center;
